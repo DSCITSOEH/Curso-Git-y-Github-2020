@@ -20,3 +20,14 @@ que varias personas realizan sobre archivos compartidos.
 GitHub es una plataforma de desarrollo colaborativo, para alojar proyectos
 utilizando el sistema de control de versiones Git. Se utiliza principalmente
 para la creación de código fuente de programas de ordenador.
+
+## Primeros comandos de Git
+
+### Configurando Git
+
+| Comando                                    | Para qué sirve                                      |
+| ------------------------------------------ | --------------------------------------------------- |
+| git --version                              | Revisamos la versión actual de Git                  |
+| git config --global user.email “Tu correo” | Configuramos el correo del usuario                  |
+| git config --global user.name “Tu nombre”  | Configuramos el nombre del usuario                  |
+| git config --list                          | Revisamos que nuestras configuraciones se guardaron |

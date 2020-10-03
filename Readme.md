@@ -48,3 +48,13 @@ para la creación de código fuente de programas de ordenador.
 | git log historia.txt  | Revisamos los commits hechos en un archivo                  |
 | git show historia.txt | Revisamos los últimos cambios hechos a un archivo           |
 | git diff a b          | Revisamos los cambios hechos de la versión a a la versión b |
+
+### Viajando en el tiempo
+
+| Comando                      | Para qué sirve                              |
+| ---------------------------- | ------------------------------------------- |
+| git checkout “ID del commit” | Viajamos al estado del commit que indicamos |
+
+**Advertencia:** Hacer un commit en un punto que no sea el head del master,
+puede causar pérdida de los archivos. Hazlo solo si deseas continuar desde ese
+punto y olvidar todos los cambios anteriores.

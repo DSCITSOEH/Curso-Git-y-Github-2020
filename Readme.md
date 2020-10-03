@@ -14,3 +14,9 @@ que varias personas realizan sobre archivos compartidos.
 -   Gestión distribuida
 -   Gestión eficiente para proyectos
 -   Menos almacenamiento necesario
+
+## ¿Qué es Github?
+
+GitHub es una plataforma de desarrollo colaborativo, para alojar proyectos
+utilizando el sistema de control de versiones Git. Se utiliza principalmente
+para la creación de código fuente de programas de ordenador.

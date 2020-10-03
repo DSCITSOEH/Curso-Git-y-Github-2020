@@ -40,3 +40,11 @@ para la creación de código fuente de programas de ordenador.
 | git status                         | Observamos el status de nuestro repositorio          |
 | git add historia.txt               | Añadimos un nuevo archivo al staging del repositorio |
 | git commit -m “Mensaje del commit” | Realizamos el commit al repositorio                  |
+
+### Revisando los cambios en el repositorio
+
+| Comando               | Para qué sirve                                              |
+| --------------------- | ----------------------------------------------------------- |
+| git log historia.txt  | Revisamos los commits hechos en un archivo                  |
+| git show historia.txt | Revisamos los últimos cambios hechos a un archivo           |
+| git diff a b          | Revisamos los cambios hechos de la versión a a la versión b |

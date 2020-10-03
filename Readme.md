@@ -58,3 +58,11 @@ para la creación de código fuente de programas de ordenador.
 **Advertencia:** Hacer un commit en un punto que no sea el head del master,
 puede causar pérdida de los archivos. Hazlo solo si deseas continuar desde ese
 punto y olvidar todos los cambios anteriores.
+
+### Trabajando con ramas
+
+| Comando                              | Para qué sirve                                      |
+| ------------------------------------ | --------------------------------------------------- |
+| git branch                           | Mostramos un listado de las ramas en el repositorio |
+| git branch “Nombre de la nueva rama” | Creamos una nueva rama                              |
+| git checkout “Nombre de la rama”     | Cambiamos hacia una nueva rama                      |

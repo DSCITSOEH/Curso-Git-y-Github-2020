@@ -31,3 +31,12 @@ para la creación de código fuente de programas de ordenador.
 | git config --global user.email “Tu correo” | Configuramos el correo del usuario                  |
 | git config --global user.name “Tu nombre”  | Configuramos el nombre del usuario                  |
 | git config --list                          | Revisamos que nuestras configuraciones se guardaron |
+
+### Nuestro primer repositorio
+
+| Comando                            | Para qué sirve                                       |
+| ---------------------------------- | ---------------------------------------------------- |
+| git init                           | Inicializamos el repositorio                         |
+| git status                         | Observamos el status de nuestro repositorio          |
+| git add historia.txt               | Añadimos un nuevo archivo al staging del repositorio |
+| git commit -m “Mensaje del commit” | Realizamos el commit al repositorio                  |

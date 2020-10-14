@@ -4,4 +4,6 @@ José Manuel Pérez García
 
 Jesus Alvarado Reyes
 
+Cristian Osmar Sánchez Sánchez
+
 Anita ITSOEH
